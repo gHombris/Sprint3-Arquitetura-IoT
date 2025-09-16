@@ -50,7 +50,7 @@ Navegue até a pasta do projeto no seu terminal.
 
 Instale as dependências: pip install Flask.
 
-Execute o servidor: python backend.py.
+Execute o servidor: python __init__.py.
 
 O terminal mostrará uma mensagem indicando que o servidor está rodando e esperando por requisições na porta 5000. Mantenha este terminal aberto.
 
